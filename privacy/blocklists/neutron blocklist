@@ -1,0 +1,9 @@
+{
+  "name": "280blocker",
+  "website": "https://privacypanthera.github.io/index",
+  "description": "protects your privacy and security from prying eyes.",
+  "source": {
+    "https://raw.githubusercontent.com/privacypanthera/Block-list/main/NeutronFull",
+    "format": "abp"
+  }
+}
